@@ -1,4 +1,19 @@
-#  Bropump NEIRO Open Source Manifesto
+#  What is $NEIRO bropump?
+
+$NEIRO bropump gets was the first launched $NEIRO token ever to be tokenized, coming from pump.fun the original developer abadoned the project shorlty after launch putting the community in control, this made $NEIRO bropump also the first CTO of a Neiro token onchain. Due to it's fast launch out of the gate, Neiro bropump got it's nickname from the contract address that starts with CT for "community takeover" and ends in "bropump": CTg3ZgYx79zrE1MteDVkmkcGniiFrK1hJ6yiabropump. This has given the community it's unique identifier and many rally around a movement, mission and purpose that is now known as the 'bropump spirit'. 
+
+# Neiro tokens
+
+There were many Neiro tokens launched across many chains, it was such a wildly popular event that Neiro bropump alone did over $3B in volume organically onchain within it's first 2-3 months. 
+What makes Neiro bropump unique?
+
+- First Neiro token ever
+- Completely community based
+- Unique focus on decentralisation and onchain LP
+- A fully community focused approach with no insiders or team controlling all decisions
+- A purpose to highlight the best of onchain defi applications
+- A people first approach, where everyone can participate and is welcome
+
 The bropump community manifesto outlines the communities goals of creating, developing, producing and supporing $NEIRO bropump. This ethos is centred in decentralisation, distributed supply, distributed community members and a 'anyone can participate and enact change' mindset. This means, that there is no centralised 'team' that will develop something for you, so far, in crypto, as participants, we have seen that within meme tokens this rarely produces anything of tangible value, and the greatest value comes from what anyone person or company can do for the greater good of crypto currency as a whole. As a solana based meme token, $NEIRO was launched randomly by a developer who gave up on the project within less than a few days, which left the community to form and manage the token without any insiders, team members or corporation. This means that it is up to all of us, people and corporations, to believe and push the bropump spirit forward. This bropump spirit is about open source, collaborative, 'work for your bags' and participate mindset, where one can benefit the many and is not looking out for their own self interests, but more interested in the interests of the bropump spirit and $NEIRO the token. 
 
 
