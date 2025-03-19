@@ -80,6 +80,22 @@ We as a community are producing something that goes against the grain, against t
 - **Don't ask, just do**, if what you're doing **has the bropump spirit**, do it.
 - Whatever you build, make or do, **give back to Neiro bropump community**.
 - **No team will do it for you** as good as you can yourself, **you're more valuable to Neiro than you think**.
+- **Meme and have fun**, tough times make strong communities, **people united, higher together**.
+- **No one owns Neiro, everyone will own Neiro**.
+
+# The open-source community mindset
+
+Neiro bropump has a focus on the open source community movement within crypto. Anyone that can build for Neiro bropump, be it something that makes a profit and gives back to the community or is simply something to benefit the commmunity for fun, your creation will be welcomed. 
+
+- Make sure it highlights Neiro bropump 
+- If the application or creation is profit seeking, make sure to give back to the community in some way, as examples:
+  -- Burns
+  -- Buy-in
+  -- Events
+- You don't need permission
+- It may be closed source or open source, as long as it's got the bropump spirit, do it!
+- 
+
 
 # The Neiro logo origin
 
