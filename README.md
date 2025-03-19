@@ -11,9 +11,20 @@ Neiro bropump (the smiley shiba) is the first launched Neiro meme token ever and
 
 $NEIRO bropump was the first launched $NEIRO token ever to be tokenized, coming from pump.fun the original developer abandoned the project shorlty after launch putting the community in control, this made $NEIRO bropump also the first CTO of a Neiro token onchain. Due to it's fast launch out of the gate, Neiro bropump got it's nickname from the contract address that starts with CT for "community takeover" and ends in "bropump": CTg3ZgYx79zrE1MteDVkmkcGniiFrK1hJ6yiabropump. This has given the community it's unique identifier and many rally around a movement, mission and purpose that is now known as the 'bropump spirit'. Neiro bropump is also called Neiro solana, Smiley Neiro, The Smiley Shiba and OG Neiro, due to it's launch timing.
 
+# Tokenomics
+
+Neiro bropump is a fair launched token, with no bundles, snipes or hyper accumulation. Maximum supply of 1B tokens were deployed on pump.fun at inception.
+
+- Total supply is 1B
+- 0.8% burned by an early community member.
+- Current Supply (March 2025) 990,823,137 $NEIRO
+- Team tokens: 0
+- Insider tokens: 0
+- Early VC tokens: 0 
+
 # The Neiro bropump one-liner
 
-Neiro bropump is an open-source focused Solana meme token built around the dog Neiro, it has a very strong focus towards corporations, individuals, developers, artists and the community driving the success of Neiro bropump instead of any centralised authority, this is known as the collective 'bropump spirit'.
+Neiro bropump is an open-source focused Solana meme token focused on advancing the bropump spirit of decentralisation, organic, community driven tokens that everyone can be part of and participate in.
 
 # Why Neiro Bropump?
 
