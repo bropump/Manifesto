@@ -116,7 +116,7 @@ The Neiro smiley face has become the main use for all memes. There are also face
 
 # Centralised exchanges
 
-The future of decentralised finance relies on promoting onchain liquidity and is the focus of Neiro bropump. With this, to support the bropump spirit as an exchange your have an oppourtunity to participate in bringing meaningful innovation to the space.
+The future of decentralised finance is centered around bringing everyone onchain and to promote onchain liquidity, this is also the focus of Neiro bropump. To support the bropump spirit as an exchange your have an oppourtunity to participate in bringing meaningful innovation to the space.
 
 - We believe exchanges should buy their supply
 - We believe exchanges should do their own market making if needed
@@ -133,7 +133,7 @@ https://raydium.io/liquidity/increase/?mode=add&pool_id=HvAqakZgurMR2br1eGWPU6Ee
 
 # Market makers
 
-The community does not make deals or pay market makers. Market makers have their place in decentralised finance, as a token built on corporate and community participation, if you run a market maker and are interested in being part of the bropump spirit, we welcome you, by doing so you see the joint vision of coorperation.
+The community does not pay for market makers. If you're a market maker you may purchase supply from the onchain pool.
 
 ## $NEIRO Bropump Community & Spirit: The Core
 
