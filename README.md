@@ -48,7 +48,7 @@ Neiro bropump is the only Neiro token that focuses on the meme of the dog Neiro-
 
 # The Neiro smiley meme face
 
-The Neiro smiley face has become the main use for all memes. There are also faces with closed eyes, mouths and other angles.
+The Neiro smiley face has become the main use for all memes. There are also faces with closed eyes, mouths and other angles. A common tagline for this is meme is /smile_stays_on.
 
 ![photo_2024-12-31_05-05-03](https://github.com/user-attachments/assets/6e912406-5d50-4348-aaae-87af408c0cb5)
 
