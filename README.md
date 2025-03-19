@@ -161,4 +161,12 @@ https://raydium.io/liquidity/increase/?mode=add&pool_id=HvAqakZgurMR2br1eGWPU6Ee
 
 The community does not pay for market makers. If you're a market maker you may purchase supply from the onchain pool.
 
+# Legal Stuff
+
+Neiro Solana LLC is registered in Delaware and is the first commerce use of the trademark NEIRO/Neiro that was filed in the USA shortly after inception.
+
+The logo and smiley face are copyrighted in the USA and several other jurisdictions. 
+
+/The_smile_stays_on
+
 
