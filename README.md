@@ -136,7 +136,7 @@ The future of decentralised finance is centered around bringing everyone onchain
 
 # No paid promotion and open partnerships 
 
-We're very excited that you are interested in promoting or partnering with Neiro bropump. As a corporation or individual you're able to intergrate and promote Neiro bropump within your own services without permission. If you do, tag x.com/neirowoof, the community does not collectively pay for promotion or KOL's. The best promotion is the people themselves! For partnerships where you would like to make a joint announcement, please dm the main X account or email contact@bropump.com, alternatively you may also join the telegram x.com/neirobropump. 
+We're very excited that you are interested in promoting or partnering with Neiro bropump. As a corporation or individual you're able to intergrate and promote Neiro bropump within your own services without permission. If you do, tag x.com/neirowoof, the community does not collectively pay for promotion or KOL's. The best promotion is the people and corporations pushing Neiro bropump together, through collective buy in. For partnerships where you would like to make a joint announcement, please dm the main X account or email contact@bropump.com, alternatively you may also join the telegram x.com/neirobropump. 
 
 Great partnerships are built by community members, as an organisation looking to partner you become a community member and are part of the bropump spirit, integrations, listings and anything else is greatly appreciated. 
 
