@@ -29,7 +29,7 @@ There were many Neiro tokens launched across many chains, it was such a wildly p
 - A fully community focused approach with no insiders or team controlling all decisions
 - A purpose to highlight the best of onchain defi applications
 - A people first approach, where everyone can participate and is welcome
-- A movement against inorganic supply control, fake volume market making and insider supply
+- A movement against inorganic supply control and fake volume market making
 - The belief that centralised exchanges should not own majority of supply of a Neiro token
 - The belief that centralised exchanges should buy supply for listings
 - The belief that market makers function best when they provide their services to benefit the community
