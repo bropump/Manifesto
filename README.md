@@ -15,6 +15,10 @@ $NEIRO bropump was the first launched $NEIRO token ever to be tokenized, coming 
 
 Neiro bropump is an open-source focused Solana meme token built around the dog Neiro, it has a very strong focus towards corporations, individuals, developers, artists and the community driving the success of Neiro bropump instead of any centralised authority, this is known as the collective 'bropump spirit'.
 
+# Why Neiro Bropump?
+
+We love dog memes, we love $NEIRO bropump, the mission and movement towards an open source first dog token on Solana is one that we see as the next evolution. With the very limited supply of Neiro and the ultra fast and low cost transactions of Solana, this is the next evolution of Dog money onchain. You'll also love Neiro bropump if you believe in fair launched, freely available, organic, distributed, decentralised focused, open to anyone meme tokens that want everyone around the world to bropump 👊⛽️.
+
 # The bropump emoji 
 
 There is a commonly used emoji identifier for Neiro bropump, the fist and the pump. Together these mean, "people united" 👊 , "higher together" ⛽️, 👊⛽️, an indentifier for community and decentralised finance. 
