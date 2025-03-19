@@ -88,13 +88,9 @@ We as a community are producing something that goes against the grain, against t
 Neiro bropump has a focus on the open source community movement within crypto. Anyone that can build for Neiro bropump, be it something that makes a profit and gives back to the community or is simply something to benefit the commmunity for fun, your creation will be welcomed. 
 
 - Make sure it highlights Neiro bropump 
-- If the application or creation is profit seeking, make sure to give back to the community in some way, as examples:
-  -- Burns
-  -- Buy-in
-  -- Events
-- You don't need permission
+- If the application or creation is profit seeking, make sure to give back to the community in some way, as examples: Burns, buy backs, shared revenue, events etc
+- You don't need permission to build what you want to build
 - It may be closed source or open source, as long as it's got the bropump spirit, do it!
-- 
 
 
 # The Neiro logo origin
