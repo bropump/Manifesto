@@ -85,13 +85,14 @@ We as a community are producing something that goes against the grain, against t
 
 # The open-source community mindset
 
-Neiro bropump has a focus on the open source community movement within crypto. Anyone that can build for Neiro bropump, be it something that makes a profit and gives back to the community or is simply something to benefit the commmunity for fun, your creation will be welcomed. 
+Neiro bropump has a focus on the open source community movement within crypto. Anyone that can build for Neiro bropump, meme, create or participate can and should! Be it something that makes a profit and gives back to the community or is simply something to benefit the commmunity for fun, your creation will be welcomed. 
 
 - Make sure it highlights Neiro bropump 
 - If the application or creation is profit seeking, make sure to give back to the community in some way, as examples: Burns, buy backs, shared revenue, events etc
 - You don't need permission to build what you want to build
 - It may be closed source or open source, as long as it's got the bropump spirit, do it!
 
+If for any reason you would like to make any joint announcements or corporate partnerships please email **contact@bropump.com** it is not compulsory to do so, you may tag the x.com/neirowoof X account for a retweet. 
 
 # The Neiro logo origin
 
@@ -112,6 +113,27 @@ The Neiro smiley face has become the main use for all memes. There are also face
 ![photo_2024-12-31_05-05-03](https://github.com/user-attachments/assets/6e912406-5d50-4348-aaae-87af408c0cb5)
 
 ![!! neiro face (2)](https://github.com/user-attachments/assets/34f0fdff-94d4-4f38-916d-ef1885a551d3)
+
+# Centralised exchanges
+
+The future of decentralised finance relies on promoting onchain liquidity and is the focus of Neiro bropump. With this, to support the bropump spirit as an exchange your have an oppourtunity to participate in bringing meaningful innovation to the space.
+
+- We believe exchanges should buy their supply
+- We believe exchanges should do their own market making if needed
+- If you have a DEX wallet let the community know!
+- Listings can be done at any time by any exchange tag x.com/neirowoof if you have done so and thank you for supporting the community and the bropump spirit!
+
+# Adding liquidity to NEIRO
+
+One of the greatest things that any community member or bropumper can do is to provide liquidity onchain. To do so please see the below raydium pool of the NEIRO/SOL pair. More liquidity and new pairs are greatly appreciated.
+
+### Main NEIRO/SOL pair
+
+https://raydium.io/liquidity/increase/?mode=add&pool_id=HvAqakZgurMR2br1eGWPU6EeFcxzmeW8n6Mn7ejEf3DV
+
+# Market makers
+
+The community does not make deals or pay market makers. Market makers have their place in decentralised finance, as a token built on corporate and community participation, if you run a market maker and are interested in being part of the bropump spirit, we welcome you, by doing so you see the joint vision of coorperation.
 
 ## $NEIRO Bropump Community & Spirit: The Core
 
