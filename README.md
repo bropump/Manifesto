@@ -20,6 +20,7 @@ There were many Neiro tokens launched across many chains, it was such a wildly p
 
 - First Neiro token ever
 - Onchain liquidity is the future
+- Designers, developers, memers, community members, you build Neiro bropump!
 - Completely community based
 - A very strong belief in the 'work for your bags' culture
 - A very strong focus on anyone being able to develop and create anything that promotes or supports Neiro bropump
@@ -36,25 +37,7 @@ There were many Neiro tokens launched across many chains, it was such a wildly p
 - If it's good for Neiro bropump just do it, don't ask
 - Anyone can do anything positive
 
-# The Neiro logo origin
-
-The Neiro logo comes from a photo taken by Atsuko Sato (The owner of Kabosu/DOGE) where her husband is holding Neiro and Neiro is seen to be smiling.
-
-The image went through many revisions within the Telegram where the community settled on a gold logo with the 'smiley shiba'. 
-
-Neiro bropump is the only Neiro token that focuses on the meme of the dog Neiro-chan using the original face for memes instead of drawings of characters.
-
-![photo_2025-01-17_15-01-09](https://github.com/user-attachments/assets/31a58d93-815b-4cc1-b1b3-bfd8c558bc44)
-
-![logo neiro-07](https://github.com/user-attachments/assets/d677150a-3cc2-4dc8-99c0-9d84d6a23f5f)
-
-# The Neiro smiley meme face
-
-The Neiro smiley face has become the main use for all memes. There are also faces with closed eyes, mouths and other angles. A common tagline for this is meme is /smile_stays_on.
-
-![photo_2024-12-31_05-05-03](https://github.com/user-attachments/assets/6e912406-5d50-4348-aaae-87af408c0cb5)
-
-![!! neiro face (2)](https://github.com/user-attachments/assets/34f0fdff-94d4-4f38-916d-ef1885a551d3)
+## Chart of Neiro bropump
 
 
 
@@ -83,7 +66,27 @@ The Neiro smiley face has become the main use for all memes. There are also face
                                    |               |
                                    -----------------
                                          ↓
-                                 $NEIRO Bropump Community & Spirit (Central, prominent)
+                $NEIRO Bropump Community & Spirit (Central, prominent)
+
+# The Neiro logo origin
+
+The Neiro logo comes from a photo taken by Atsuko Sato (The owner of Kabosu/DOGE) where her husband is holding Neiro and Neiro is seen to be smiling.
+
+The image went through many revisions within the Telegram where the community settled on a gold logo with the 'smiley shiba'. 
+
+Neiro bropump is the only Neiro token that focuses on the meme of the dog Neiro-chan using the original face for memes instead of drawings of characters.
+
+![photo_2025-01-17_15-01-09](https://github.com/user-attachments/assets/31a58d93-815b-4cc1-b1b3-bfd8c558bc44)
+
+![logo neiro-07](https://github.com/user-attachments/assets/d677150a-3cc2-4dc8-99c0-9d84d6a23f5f)
+
+# The Neiro smiley meme face
+
+The Neiro smiley face has become the main use for all memes. There are also faces with closed eyes, mouths and other angles. A common tagline for this is meme is /smile_stays_on.
+
+![photo_2024-12-31_05-05-03](https://github.com/user-attachments/assets/6e912406-5d50-4348-aaae-87af408c0cb5)
+
+![!! neiro face (2)](https://github.com/user-attachments/assets/34f0fdff-94d4-4f38-916d-ef1885a551d3)
 
 ## $NEIRO Bropump Community & Spirit: The Core
 
