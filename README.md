@@ -12,6 +12,7 @@ There were many Neiro tokens launched across many chains, it was such a wildly p
 
 - First Neiro token ever
 - Completely community based
+- A very strong belief in the 'work for your bags' culture
 - A very strong focus on anyone being able to develop and create anything that promotes or supports Neiro bropump
 - Unique focus on decentralisation and onchain LP
 - A fully community focused approach with no insiders or team controlling all decisions
