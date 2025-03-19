@@ -33,6 +33,8 @@ There were many Neiro tokens launched across many chains, it was such a wildly p
 - The belief that market makers function best when they provide their services to benefit the community
 - No team tokens, no insiders
 - Slow burn organic token distribution
+- If it's good for Neiro bropump just do it, don't ask
+- Anyone can do anything positive
 
 # The Neiro logo origin
 
