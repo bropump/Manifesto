@@ -19,6 +19,7 @@ There were many Neiro tokens launched across many chains, it was such a wildly p
 ## What makes Neiro bropump unique?
 
 - First Neiro token ever
+- Memes, memes, memes! 
 - Onchain liquidity is the future
 - Designers, developers, memers, community members, you build Neiro bropump!
 - Completely community based
