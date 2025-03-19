@@ -40,7 +40,7 @@ The Neiro logo comes from a photo taken by Atsuko Sato (The owner of Kabosu/DOGE
 
 The image went through many revisions within the Telegram where the community settled on a gold logo with the 'smiley shiba'. 
 
-Neiro bropump is the only Neiro token that focuses on the meme of the dog Neiro-chan using the original face for memes instead of drawings of characters as these don't represent the original meme.
+Neiro bropump is the only Neiro token that focuses on the meme of the dog Neiro-chan using the original face for memes instead of drawings of characters.
 
 ![photo_2025-01-17_15-01-09](https://github.com/user-attachments/assets/31a58d93-815b-4cc1-b1b3-bfd8c558bc44)
 
