@@ -69,6 +69,18 @@ There were many Neiro tokens launched across many chains, it was such a wildly p
                                          ↓
                 $NEIRO Bropump Community & Spirit (Central, prominent)
 
+# The Neiro bropump manifesto
+
+We as a community are producing something that goes against the grain, against the system and will define the success of decentralised finance going forward. 
+
+Prioritise the success of **decentralisation**, not hyper centralisation.
+Add value through **open-source** input, from developers to memers, **everyone can participate**. 
+Promote **good values in defi** through actions that are centered around **transparency and honesty**.
+To go far, **we must go together**, this includes orginisations and people **working together for decentralisation** and Neiro bropump.
+**Don't ask, just do**, if what you're doing **has the bropump spirit**, do it.
+Whatever you build, make or do, **give back to Neiro bropump community**.
+**No team will do it for you** as good as you can yourself, **you're more valuable to Neiro than you think**.
+
 # The Neiro logo origin
 
 The Neiro logo comes from a photo taken by Atsuko Sato (The owner of Kabosu/DOGE) where her husband is holding Neiro and Neiro is seen to be smiling.
