@@ -6,7 +6,7 @@ $NEIRO bropump was the first launched $NEIRO token ever to be tokenized, coming 
 
 # Neiro tokens
 
-There were many Neiro tokens launched across many chains, it was such a wildly popular event that Neiro bropump alone did over $3B in volume organically onchain within it's first 2-3 months. There was a lot of competition over the Neiro ticker and it's future, Neiro bropump stood out as the most organic Neiro token resisting calls to give away all supply to centralised exchanges and to focus on decentralised onchain finance. This is why Neiro bropump does not have hyper concentrations of tokens on centralised exchanges. 
+There were many Neiro tokens launched across many chains, it was such a wildly popular event that Neiro bropump alone did over $3B in volume organically onchain within it's first 2-3 months. It's unique for it's very strong core beliefs around what's good for crypto, organic, distributed and decentralised.
 
 ## What makes Neiro bropump unique?
 
