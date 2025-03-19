@@ -116,12 +116,13 @@ The Neiro smiley face has become the main use for all memes. There are also face
 
 # Centralised exchanges
 
-The future of decentralised finance is centered around bringing everyone onchain and to promote onchain liquidity, this is also the focus of Neiro bropump. To support the bropump spirit as an exchange your have an oppourtunity to participate in bringing meaningful innovation to the space.
+The future of decentralised finance is centered around bringing everyone onchain and to promote onchain liquidity, this is also the focus of Neiro bropump. To support the bropump spirit as an exchange your have an oppourtunity to participate in bringing meaningful innovation to the space. By listing Neiro bropump you are joining in on the long term vision and buying into the bropump spirit mission. 
 
 - We believe exchanges should buy their supply
 - We believe exchanges should do their own market making if needed
 - If you have a DEX wallet let the community know!
 - Listings can be done at any time by any exchange tag x.com/neirowoof if you have done so and thank you for supporting the community and the bropump spirit!
+- There is no team, hidden supply allocations or other issues that should cause issue for exchange listings.
 
 # Adding liquidity to NEIRO
 
