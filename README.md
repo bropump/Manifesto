@@ -22,6 +22,9 @@ Neiro bropump is a fair launched token, with no bundles, snipes or hyper accumul
 - Insider tokens: 0
 - Early VC tokens: 0 
 
+![image](https://github.com/user-attachments/assets/4d930cbb-80e9-4765-8790-b19686324371)
+
+
 # The Neiro bropump one-liner
 
 Neiro bropump is an open-source focused Solana meme token focused on advancing the bropump spirit of decentralisation, organic, community driven tokens that everyone can be part of and participate in.
