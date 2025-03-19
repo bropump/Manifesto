@@ -20,6 +20,10 @@ There is a commonly used emoji identifier for Neiro bropump, the fist and the pu
 
 There were many Neiro tokens launched across many chains, it was such a wildly popular event that Neiro bropump alone did over $3B in volume organically onchain within it's first 2-3 months. One notible difference between Neiro bropump and other Neiro tokens, is the lack of supply that could be given away to exchanges or market makers, and the general resistance by the community to do so, this is why Neiro bropump is the only Neiro token with an organic looking bubblemaps. By some estimates there were 20+ launches across multiple chains, with more derivatives, making Neiro bropump **the provenance holder** of being the first launched Neiro ever. 
 
+# A movement driven by the people
+
+Very early on in the stages of the Neiro bropump launch, it was clear that the decentralised maxis and organic maxis gravitated towards Neiro bropump due to it being the only Neiro on market without supply control, KOL promotion or insiders, as such, the movement for positive decentralised ecosystem became something of a core purpose for Neiro bropump and now defines the spirit of the community. This movement for strong ideals within meme tokens was driven by the calls from the community and strongly defines the purpose of the bropump spirit, where everyone must win and everyone must participate.
+
 ## What makes Neiro bropump unique?
 
 - First Neiro token ever
