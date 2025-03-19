@@ -104,6 +104,10 @@ Neiro bropump has a focus on the open source community movement within crypto. A
 
 If for any reason you would like to make any joint announcements or corporate partnerships please email **contact@bropump.com** it is not compulsory to do so, you may tag the x.com/neirowoof X account for a retweet. 
 
+# No team
+
+There is no team in Neiro bropump or leader hierachy, we are all Neiro bropump. The long running joke is that everyone is the leader.
+
 # The Neiro logo origin
 
 The Neiro logo comes from a photo taken by Atsuko Sato (The owner of Kabosu/DOGE) where her husband is holding Neiro and Neiro is seen to be smiling.
