@@ -6,7 +6,7 @@ $NEIRO bropump was the first launched $NEIRO token ever to be tokenized, coming 
 
 # The bropump emoji 
 
-There is a commonly used emoji identifier for Neiro bropump, the fist and the pump. Together these mean, "people united" 👊 , "higher together" ⛽️, 👊⛽️, a indentifier for community and decentralised finance. 
+There is a commonly used emoji identifier for Neiro bropump, the fist and the pump. Together these mean, "people united" 👊 , "higher together" ⛽️, 👊⛽️, an indentifier for community and decentralised finance. 
 
 # Neiro tokens
 
