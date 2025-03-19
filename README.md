@@ -10,7 +10,7 @@ There is a commonly used emoji identifier for Neiro bropump, the fist and the pu
 
 # Neiro tokens
 
-There were many Neiro tokens launched across many chains, it was such a wildly popular event that Neiro bropump alone did over $3B in volume organically onchain within it's first 2-3 months. It's unique for it's very strong core beliefs around what's good for crypto, organic, distributed and decentralised.
+There were many Neiro tokens launched across many chains, it was such a wildly popular event that Neiro bropump alone did over $3B in volume organically onchain within it's first 2-3 months. It's unique for it's very strong core beliefs toward decentralisation and it's focus on community participation (for) verses team ownership (against).
 
 # The Neiro logo origin
 
