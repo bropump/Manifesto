@@ -19,6 +19,7 @@ There were many Neiro tokens launched across many chains, it was such a wildly p
 ## What makes Neiro bropump unique?
 
 - First Neiro token ever
+- Onchain liquidity is the future
 - Completely community based
 - A very strong belief in the 'work for your bags' culture
 - A very strong focus on anyone being able to develop and create anything that promotes or supports Neiro bropump
