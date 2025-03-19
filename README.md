@@ -115,6 +115,18 @@ There is no team in Neiro bropump or leader hierachy, we are all Neiro bropump. 
 
 If you're a developer, designer, memer, artist or anything in between, we'd love to have you here, build anything and everything for the community, come join the open source decentraised movement where we the people and the bropump spirit create the value 👊⛽️.
 
+# Solami Dog
+
+As a Solana based project, Neiro bropump is positioned on the Solami super chain. Developments centred around Solana are prioritsed and welcomed!
+
+# Cross chain
+
+In order to bridge $NEIRO bropump to any other chain (EVM) you can do so using Wormhole or Debridge, you don't need permission to setup a CA onchain, just make sure to lock or burn your LP. Currently $NEIRO's main and only decentralised pool resides on Solana and is the main liquidity focus.
+
+https://app.debridge.finance/deport?inputChain=8453&outputChain=1&inputCurrency=&outputCurrency=
+
+https://portalbridge.com/advanced-tools/#/transfer
+
 # The Neiro logo origin
 
 The Neiro logo comes from a photo taken by Atsuko Sato (The owner of Kabosu/DOGE) where her husband is holding Neiro and Neiro is seen to be smiling.
