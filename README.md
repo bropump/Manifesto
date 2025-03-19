@@ -14,7 +14,7 @@ There is a commonly used emoji identifier for Neiro bropump, the fist and the pu
 
 # Multiple Neiro tokens
 
-There were many Neiro tokens launched across many chains, it was such a wildly popular event that Neiro bropump alone did over $3B in volume organically onchain within it's first 2-3 months.
+There were many Neiro tokens launched across many chains, it was such a wildly popular event that Neiro bropump alone did over $3B in volume organically onchain within it's first 2-3 months. One notible difference between Neiro bropump and other Neiro tokens, is the lack of supply that could be given away to exchanges or market makers, and the general resistance by the community to do so, this is why Neiro bropump is the only Neiro token with an organic looking bubblemaps.
 
 ## What makes Neiro bropump unique?
 
