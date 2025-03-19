@@ -12,9 +12,26 @@ Neiro bropump is an open-source focused Solana meme token built around the dog N
 
 There is a commonly used emoji identifier for Neiro bropump, the fist and the pump. Together these mean, "people united" 👊 , "higher together" ⛽️, 👊⛽️, an indentifier for community and decentralised finance. 
 
-# Neiro tokens
+# Multiple Neiro tokens
 
-There were many Neiro tokens launched across many chains, it was such a wildly popular event that Neiro bropump alone did over $3B in volume organically onchain within it's first 2-3 months. It's unique for it's very strong core beliefs toward decentralisation and it's focus on community participation (for) verses team ownership (against).
+There were many Neiro tokens launched across many chains, it was such a wildly popular event that Neiro bropump alone did over $3B in volume organically onchain within it's first 2-3 months.
+
+## What makes Neiro bropump unique?
+
+- First Neiro token ever
+- Completely community based
+- A very strong belief in the 'work for your bags' culture
+- A very strong focus on anyone being able to develop and create anything that promotes or supports Neiro bropump
+- Unique focus on decentralisation and onchain LP
+- A fully community focused approach with no insiders or team controlling all decisions
+- A purpose to highlight the best of onchain defi applications
+- A people first approach, where everyone can participate and is welcome
+- A movement against inorganic supply control, market making and insider supply
+- The belief that centralised exchanges should not own majority of supply of a Neiro token
+- The belief that centralised exchanges should buy supply for listings
+- The belief that market makers function best when they provide their services to benefit the community
+- No team tokens, no insiders
+- Slow burn organic token distribution
 
 # The Neiro logo origin
 
@@ -36,25 +53,6 @@ The Neiro smiley face has become the main use for all memes. There are also face
 
 ![!! neiro face (2)](https://github.com/user-attachments/assets/34f0fdff-94d4-4f38-916d-ef1885a551d3)
 
-
-## What makes Neiro bropump unique?
-
-- First Neiro token ever
-- Completely community based
-- A very strong belief in the 'work for your bags' culture
-- A very strong focus on anyone being able to develop and create anything that promotes or supports Neiro bropump
-- Unique focus on decentralisation and onchain LP
-- A fully community focused approach with no insiders or team controlling all decisions
-- A purpose to highlight the best of onchain defi applications
-- A people first approach, where everyone can participate and is welcome
-- A movement against inorganic supply control, market making and insider supply
-- The belief that centralised exchanges should not own majority of supply of a Neiro token
-- The belief that centralised exchanges should buy supply for listings
-- The belief that market makers function best when they provide their services to benefit the community
-- No team tokens, no insiders
-- Slow burn organic token distribution
-
-The bropump community manifesto outlines the communities goals of creating, developing, producing and supporing $NEIRO bropump. This ethos is centred in decentralisation, distributed supply, distributed community members and a 'anyone can participate and enact change' mindset. This means, that there is no centralised 'team' that will develop something for you, so far, in crypto, as participants, we have seen that within meme tokens this rarely produces anything of tangible value, and the greatest value comes from what anyone person or company can do for the greater good of crypto currency as a whole. As a solana based meme token, $NEIRO was launched randomly by a developer who gave up on the project within less than a few days, which left the community to form and manage the token without any insiders, team members or corporation. This means that it is up to all of us, people and corporations, to believe and push the bropump spirit forward. This bropump spirit is about open source, collaborative, 'work for your bags' and participate mindset, where one can benefit the many and is not looking out for their own self interests, but more interested in the interests of the bropump spirit and $NEIRO the token. 
 
 
                                    Growth of $NEIRO
