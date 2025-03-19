@@ -4,6 +4,13 @@
 
 $NEIRO bropump was the first launched $NEIRO token ever to be tokenized, coming from pump.fun the original developer abandoned the project shorlty after launch putting the community in control, this made $NEIRO bropump also the first CTO of a Neiro token onchain. Due to it's fast launch out of the gate, Neiro bropump got it's nickname from the contract address that starts with CT for "community takeover" and ends in "bropump": CTg3ZgYx79zrE1MteDVkmkcGniiFrK1hJ6yiabropump. This has given the community it's unique identifier and many rally around a movement, mission and purpose that is now known as the 'bropump spirit'. 
 
+# The bropump emoji 
+
+There is a commonly used emoji identifier for Neiro bropump, the fist and the pump. Together these mean, people united, higher together 👊⛽️, a indentifier for community and decentralised finance. 
+
+👊 = people united
+⛽️ = higher together
+
 # Neiro tokens
 
 There were many Neiro tokens launched across many chains, it was such a wildly popular event that Neiro bropump alone did over $3B in volume organically onchain within it's first 2-3 months. It's unique for it's very strong core beliefs around what's good for crypto, organic, distributed and decentralised.
