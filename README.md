@@ -104,9 +104,9 @@ Neiro bropump has a focus on the open source community movement within crypto. A
 
 If for any reason you would like to make any joint announcements or corporate partnerships please email **contact@bropump.com** it is not compulsory to do so, you may tag the x.com/neirowoof X account for a retweet. 
 
-# No team
+# No team, no leader 
 
-There is no team in Neiro bropump or leader hierachy, we are all Neiro bropump. The long running joke is that everyone is the leader.
+There is no team in Neiro bropump or leader hierachy, we are all Neiro bropump. The long running joke is that everyone is the leader. This distibuted and anti fragile approach means everyone is equally able to parcipate and enact change, do anything, just do it!
 
 # The Neiro logo origin
 
