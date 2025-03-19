@@ -2,7 +2,7 @@
 
 #  What is $NEIRO bropump?
 
-$NEIRO bropump was the first launched $NEIRO token ever to be tokenized, coming from pump.fun the original developer abandoned the project shorlty after launch putting the community in control, this made $NEIRO bropump also the first CTO of a Neiro token onchain. Due to it's fast launch out of the gate, Neiro bropump got it's nickname from the contract address that starts with CT for "community takeover" and ends in "bropump": CTg3ZgYx79zrE1MteDVkmkcGniiFrK1hJ6yiabropump. This has given the community it's unique identifier and many rally around a movement, mission and purpose that is now known as the 'bropump spirit'. Neiro bropump is also called Neiro solana and OG Neiro, due to it's launch timing.
+$NEIRO bropump was the first launched $NEIRO token ever to be tokenized, coming from pump.fun the original developer abandoned the project shorlty after launch putting the community in control, this made $NEIRO bropump also the first CTO of a Neiro token onchain. Due to it's fast launch out of the gate, Neiro bropump got it's nickname from the contract address that starts with CT for "community takeover" and ends in "bropump": CTg3ZgYx79zrE1MteDVkmkcGniiFrK1hJ6yiabropump. This has given the community it's unique identifier and many rally around a movement, mission and purpose that is now known as the 'bropump spirit'. Neiro bropump is also called Neiro solana, Smiley Neiro, The Smiley Shiba and OG Neiro, due to it's launch timing.
 
 # The bropump emoji 
 
@@ -11,6 +11,25 @@ There is a commonly used emoji identifier for Neiro bropump, the fist and the pu
 # Neiro tokens
 
 There were many Neiro tokens launched across many chains, it was such a wildly popular event that Neiro bropump alone did over $3B in volume organically onchain within it's first 2-3 months. It's unique for it's very strong core beliefs around what's good for crypto, organic, distributed and decentralised.
+
+# The Neiro logo origin
+
+The Neiro logo comes from a photo taken by Atsuko Sato (The owner of Kabosu/DOGE) where her husband is holding Neiro and Neiro is seen to be smiling.
+
+The image went through many revisions within the Telegram where the community settled on a gold logo with the 'smiley shiba'. 
+
+![photo_2025-01-17_15-01-09](https://github.com/user-attachments/assets/31a58d93-815b-4cc1-b1b3-bfd8c558bc44)
+
+![logo neiro-07](https://github.com/user-attachments/assets/d677150a-3cc2-4dc8-99c0-9d84d6a23f5f)
+
+# The Neiro smiley meme face
+
+The Neiro smiley face has become the main use for all memes.
+
+![photo_2024-12-31_05-05-03](https://github.com/user-attachments/assets/6e912406-5d50-4348-aaae-87af408c0cb5)
+
+![!! neiro face (2)](https://github.com/user-attachments/assets/34f0fdff-94d4-4f38-916d-ef1885a551d3)
+
 
 ## What makes Neiro bropump unique?
 
