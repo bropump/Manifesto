@@ -2,7 +2,7 @@
 
 # TLDR
 
-Neiro bropump (the smiley shiba) is the first launched Neiro meme token ever and the first CTO, the token resides on the Solana blockchain with the CA ending in bropump, which is why Neiro is often called Neiro bropump. The community focuses on organic supply, transparent and open source driven development. Decentralisation, onchain liquidity and 'people united', 'higher together' pave the way for the 'bropump spirit'. Participation and ownership of Neiro is done via everyone and anyone, from community members to corperations that want to add to the bropump spirit. There's no centralised team or authority and everyone is welcome to build with Neiro. There is no supply control, insiders, early VC's or backers. If you would like to participate in development, memes or anything in between feel free to do so at anytime. Welcome to Neiro bropump, the smiley shiba.
+Neiro bropump (the smiley shiba) is the first launched Neiro meme token ever and the first CTO, the token resides on the Solana blockchain with the CA ending in bropump, which is why Neiro is often called Neiro bropump. The community focuses on organic supply, fair access, distributed supply, transparency and open source driven development. Decentralisation, onchain liquidity and 'people united', 'higher together' pave the way for the 'bropump spirit'. Participation and ownership of Neiro is done via everyone and anyone, from community members to corperations that want to add to the bropump spirit. There's no centralised team or authority and everyone is welcome to build with Neiro. There is no supply control, insiders, early VC's or backers. If you would like to participate in development, memes or anything in between feel free to do so at anytime. Welcome to Neiro bropump, the smiley shiba.
 
 #  What is $NEIRO bropump?
 
@@ -27,6 +27,8 @@ Very early on in the stages of the Neiro bropump launch, it was clear that the d
 ## What makes Neiro bropump unique?
 
 - First Neiro token ever
+- Distibuted supply 
+- Fair supply access, everyone buys in
 - Memes, memes, memes! 
 - Onchain liquidity is the future
 - Designers, developers, memers, community members, you build Neiro bropump!
