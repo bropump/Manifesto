@@ -134,6 +134,10 @@ The future of decentralised finance is centered around bringing everyone onchain
 - Listings can be done at any time by any exchange tag x.com/neirowoof if you have done so and thank you for supporting the community and the bropump spirit!
 - There is no team, hidden supply allocations or other issues that should cause issue for exchange listings.
 
+# Paid promotion and partnerships 
+
+As a corporation or individual you're able to intergrate and promote Neiro bropump within your own services without permission. Please do so and tag x.com/neirowoof, the token does not pay for promotion or KOL's. The best promotion is the people themselves! For partnerships where you would like to make a joint announcement, please dm the main X account or email contact@bropump.com, alternatively you may also join the telegram x.com/neirobropump. 
+
 # Adding liquidity to NEIRO
 
 One of the greatest things that any community member or bropumper can do is to provide liquidity onchain. To do so please see the below raydium pool of the NEIRO/SOL pair. More liquidity and new pairs are greatly appreciated.
@@ -145,4 +149,5 @@ https://raydium.io/liquidity/increase/?mode=add&pool_id=HvAqakZgurMR2br1eGWPU6Ee
 # Market makers
 
 The community does not pay for market makers. If you're a market maker you may purchase supply from the onchain pool.
+
 
