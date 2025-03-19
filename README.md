@@ -1,3 +1,5 @@
+** If you would like to make changes to this document please make a pull request!**
+
 #  What is $NEIRO bropump?
 
 $NEIRO bropump was the first launched $NEIRO token ever to be tokenized, coming from pump.fun the original developer abandoned the project shorlty after launch putting the community in control, this made $NEIRO bropump also the first CTO of a Neiro token onchain. Due to it's fast launch out of the gate, Neiro bropump got it's nickname from the contract address that starts with CT for "community takeover" and ends in "bropump": CTg3ZgYx79zrE1MteDVkmkcGniiFrK1hJ6yiabropump. This has given the community it's unique identifier and many rally around a movement, mission and purpose that is now known as the 'bropump spirit'. 
