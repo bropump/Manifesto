@@ -2,7 +2,10 @@
 
 # TLDR
 
-Neiro bropump (the smiley shiba) is the first launched Neiro meme token ever and the first CTO, the token resides on the Solana blockchain with the CA ending in bropump, which is why Neiro is often called Neiro bropump. The community focuses on organic supply, fair access, distributed supply, transparency and open source driven development. Decentralisation, onchain liquidity and 'people united', 'higher together' pave the way for the 'bropump spirit'. Participation and ownership of Neiro is done via everyone and anyone, from community members to corperations that want to add to the bropump spirit. There's no centralised team or authority and everyone is welcome to build with Neiro. There is no supply control, insiders, early VC's or backers. If you would like to participate in development, memes or anything in between feel free to do so at anytime. Welcome to Neiro bropump, the smiley shiba.
+Neiro bropump (the smiley shiba) is the first launched Neiro meme token ever and the first CTO, the token resides on the Solana blockchain with the CA ending in bropump, which is why Neiro is often called Neiro bropump. The community focuses on organic supply, fair access, distributed supply, transparency and open source driven development. Decentralisation, onchain liquidity and 'people united', 'higher together' pave the way for the 'bropump spirit'. Participation and ownership of Neiro is done via everyone and anyone, from community members to corperations that want to add to the bropump spirit. There's no centralised team or authority and everyone is welcome to build with Neiro. There is no supply control, insiders, early VC's or backers. If you would like to participate in development, memes or anything in between feel free to do so at anytime. Welcome to Neiro bropump, the smiley shiba. 👊⛽️
+
+![image](https://github.com/user-attachments/assets/bca03396-9a8b-4abc-a894-e8c3f25dd030)
+
 
 #  What is $NEIRO bropump?
 
@@ -107,6 +110,10 @@ If for any reason you would like to make any joint announcements or corporate pa
 # No team, no leader 
 
 There is no team in Neiro bropump or leader hierachy, we are all Neiro bropump. The long running joke is that everyone is the leader. This distibuted and anti fragile approach means everyone is equally able to parcipate and enact change, do anything, just do it!
+
+# Developers, designers, memers!
+
+If you're a developer, designer, memer, artist or anything in between, we'd love to have you here, build anything and everything for the community, come join the open source decentraised movement where we the people and the bropump spirit create the value 👊⛽️.
 
 # The Neiro logo origin
 
