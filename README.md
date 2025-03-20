@@ -198,7 +198,7 @@ https://raydium.io/liquidity/increase/?mode=add&pool_id=HvAqakZgurMR2br1eGWPU6Ee
 
 # Market makers
 
-The community does not pay for market makers. If you're a market maker you may purchase supply from the onchain pool.
+Great market makers can accelerate community initiatives with onchain liquidity, exchanges and more, although the bropump community does not pay for market makers. If you're a market maker you may purchase supply from the onchain pool. 
 
 # Legal Stuff
 
