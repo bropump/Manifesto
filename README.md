@@ -175,16 +175,18 @@ The future of decentralised finance is centered around bringing everyone onchain
 - Listings can be done at any time by any exchange tag x.com/neirowoof if you have done so and thank you for supporting the community and the bropump spirit!
 - There is no team, hidden supply allocations or other issues that should cause issue for exchange listings.
 
-# No paid promotion and open partnerships 
+# Paid promotion 
 
-We're very excited that you are interested in promoting or partnering with Neiro bropump. As a corporation or individual you're able to intergrate and promote Neiro bropump within your own services without permission. If you do, tag x.com/neirowoof, the community does not collectively pay for promotion or KOL's. The best promotion is the people and corporations pushing Neiro bropump together, through collective buy in. For partnerships where you would like to make a joint announcement, please dm the main X account or email contact@bropump.com, alternatively you may also join the telegram x.com/neirobropump. 
+We're very excited that you are interested in promoting Neiro bropump. As a corporation or individual you're able to intergrate and promote Neiro bropump within your own services without permission. If you do, tag x.com/neirowoof, the community does not collectively pay for promotion or KOL's, this is done by invidiual community members themselves or companies. The best promotion is the people and corporations pushing Neiro bropump together, through collective buy in. 
 
 - Any community member may do their own marketing
 - It's always awesome when companies get involved in the bropump spirit
 - Prioritise long term benefits for the community
 - IRL is the best!
 
-Great partnerships are built by community members, as an organisation looking to partner you become a community member and are part of the bropump spirit, integrations, listings and anything else is greatly appreciated. 
+# Partnerships 
+
+Great partnerships are built by community members, as an organisation looking to partner you become a community member and are part of the bropump spirit, integrations, listings and anything else is greatly appreciated. For partnerships where you would like to make a joint announcement, please dm the main X account or email contact@bropump.com, alternatively you may also join the telegram x.com/neirobropump. 
 
 # Adding liquidity to NEIRO
 
